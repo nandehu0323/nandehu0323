@@ -12,8 +12,9 @@
   </a>
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=nandehu0323&show_icons=true&theme=dark&count_private=true&line_height=40)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nandehu0323&theme=dark)  
+![](https://raw.githubusercontent.com/nandehu0323/nandehu0323/main/profile-summary-card-output/tokyonight/0-profile-details.svg)
+![](https://raw.githubusercontent.com/nandehu0323/nandehu0323/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg) ![](https://raw.githubusercontent.com/nandehu0323/nandehu0323/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=nandehu0323&theme=onedark&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
